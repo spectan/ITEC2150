@@ -1,5 +1,5 @@
 # ITEC2150
-My assignments from the intermediate programming course I took at GGC.
+My assignments from the intermediate programming course I took at GGC taught by [Dr. Cynthia Johnson](https://www.linkedin.com/in/cynthia-johnson-6017b5122/).
 - **Array Assignment**: Features creating an array of objects.
 - **HW1 Objects and Arrays**: Creating a bunch of objects and interacting with arrays of said objects.
 - **HW2 User Input Objects and Arraylists**: Creating objects using a loop based on user input and interacting with an arraylist of said objects.
