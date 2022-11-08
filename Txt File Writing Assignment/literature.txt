@@ -1,0 +1,20 @@
+Poem
+Bukowski
+Bluebird
+2
+
+Prose
+Martin
+A Song of Ice and Fire Book One
+563
+
+Poem
+Shakespeare
+Sonnet 18
+3
+
+Prose
+Tolkein
+The Return of the King
+561
+

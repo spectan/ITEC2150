@@ -1,0 +1,8 @@
+TVShow [showName=Picard, streamingService=CBS All Access]
+TVShow [showName=The Mandalorian, streamingService=Disney+]
+TVShow [showName=Little Fires , streamingService=Hulu]
+TVShow [showName=The Handmaid's Tale, streamingService=Hulu]
+TVShow [showName=Orange is the New Black, streamingService=Netflix]
+TVShow [showName=Tiger King, streamingService=Netflix]
+TVShow [showName=Making the Cut, streamingService=Prime]
+TVShow [showName=The Marvelous Mrs. Maisel, streamingService=Prime]

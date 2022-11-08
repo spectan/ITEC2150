@@ -1,0 +1,40 @@
+poem
+Amanda Gorman
+The Hill We Climb
+1
+prose
+Michelle Obama
+Becoming
+440
+poem
+Robert Frost
+The Road Not Taken
+4
+prose
+Kristin Hannah
+The Four Winds
+394
+poem
+Robert Frost
+Stopping by Woods on a Snowy Evening
+4
+prose
+Kristin Hannah
+Firefly Lane
+502
+poem
+Bukowski
+Bluebird
+2
+poem
+Shakespeare
+Sonnet 18
+3
+prose
+Tolkein
+The Return of the King
+561
+prose
+Martin
+A Song of Ice and Fire Book One
+563
